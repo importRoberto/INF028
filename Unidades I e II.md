@@ -1,3 +1,5 @@
+https://www.guru99.com/pt/shortest-job-first-sjf-scheduling.html
+
 I Unidade
 
 1.  Arquiteturas Von Neumann vs Harvard
